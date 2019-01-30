@@ -1,4 +1,6 @@
 .vscode
 bin
 obj
+node_modules
+package.json
 *.db
